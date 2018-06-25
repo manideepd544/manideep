@@ -1,2 +1,5 @@
+
 hello mani how are you 
 You have to start jenkins
+hello
+commited mani.txt first time in master branch with hello
