@@ -1,1 +1,2 @@
-hello mani how are you
+hello mani how are you 
+You have to start jenkins
